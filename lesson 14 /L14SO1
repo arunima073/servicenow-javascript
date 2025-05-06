@@ -1,0 +1,11 @@
+// truthy and falsy for numbers
+var num = 0;
+gs.info('num is'+ ((num)?'true':'false'));
+
+// truthy and falsy for strings
+var string1;
+var string2 = null;
+var string3 = "";
+gs.info('string1 is'+ ((num)?'true':'false'));
+gs.info('string2 is'+ ((num)?'true':'false'));
+gs.info('string3 is'+ ((num)?'true':'false'));
